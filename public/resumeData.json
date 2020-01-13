@@ -15,7 +15,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"./images/resume.pdf",
+    "resumedownload":"https://docs.google.com/document/d/1lWYBf9liNcOfSuPNNKAXukEWuDqEwFwLXk7u9LcjuZk/edit?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -61,7 +61,7 @@
         "school":"DevMountain",
         "degree":"Web Development Certification (Badged)",
         "graduated":"September 2019 - December 2019",
-        "description":"DevMountain is a 13 week, immersive Web Development bootcamp. In that time, I built two full-stack and one 3/4-stack web applications."
+        "description":"DevMountain is a 13-week, immersive Web Development bootcamp. In that time, I built two full-stack and one 3/4-stack web applications."
       }
     ],
     "work":[
@@ -69,17 +69,17 @@
         "company":"Stack'd",
         "title":"Group Project",
         "years":"December 2019",
-        "description":"A full-stack web app built as a teaching tool for DevMountain to implement into their curriculum. Only DM students and staff are able to register on the site. Students can post questions to a forum where classmates, staff and alumni can answer the questions. I wrote the vast majority of the backend and most of the front-end functionality. Technologies Used: React.js, Node.js, CSS, HTML, SQL, Firebase, GreenSock, React Quill, React Markdown, Nodemailer, React Modal"
+        "description":"A full-stack web app built as a teaching tool, similar to Stack Overflow, for DevMountain to implement into their curriculum. Only DM students and staff are able to register on the site. Students can post questions to a forum where classmates, staff and alumni can answer the questions. I wrote the vast majority of the backend and most of the front-end functionality. Technologies Used: React.js, Node.js, CSS, HTML, SQL, Firebase, GreenSock, React Quill, React Markdown, Nodemailer, React Modal"
       },
       {
         "company":"BMDb",
         "title":"Personal Project",
         "years":"November 2019",
-        "description":"A full-stack web app for all things movies and TV, inspired by IMDb. A user can create an account, search for movies, TV shows and actors, add their favorite movies / TV shows to a personal watchlist and purchase movie tickets. Technologies Used: React.js, Express-Session, JavaScript, Node.js, SASS, HTML, Firebase and Restful API's"
+        "description":"A full-stack web app for all things movies and TV, inspired by IMDb. A user can create an account, search for movies, TV shows and actors, add their favorite movies / TV shows to a personal watchlist. They can also find movie times and purchase movie tickets from Fandago. Technologies Used: React.js, Express-Session, JavaScript, Node.js, SASS, HTML, Firebase and Restful API's"
       },
       {
         "company":"BUT Head",
-        "title":"Personal No Database Project",
+        "title":"No Database Project",
         "years":"October 2019",
         "description":"A 3/4-stack web app that allows the user to create their own FIFA card and build an ultimate team. Technologies Used: React.js, JavaScript, HTML, CSS, Node.js and Express."
       }
@@ -127,13 +127,12 @@
         "title":"BMDb",
         "category":"A Movie and TV Show Database",
         "image":"bmdb-screenshot.png",
-        "url":"http://159.89.144.149:5000"
+        "url":"http://159.89.144.149:5000/#/"
       },
       {
         "title":"BUT Head",
         "category":"FIFA Card and Ultimate Team Creator",
-        "image":"but-head-screenshot.png",
-        "url":""
+        "image":"but-head-screenshot.png"
       }
     ]
   },
