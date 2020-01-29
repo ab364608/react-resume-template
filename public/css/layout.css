@@ -289,6 +289,12 @@ ul#nav li.current a { color: #F06000; }
 /*	Skill Bars
 /*----------------------------------------------*/
 
+
+#skills-container {
+   overflow: scroll;
+   height: 49vh;
+}
+
 .bars {
 	width: 95%;
 	float: left;
@@ -421,7 +427,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #FFFFFF;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -451,6 +457,11 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .item-wrap a {
    display: block;
    cursor: pointer;
+}
+
+#project-container {
+   background: #ebeeee;
+   border-radius: 5px 5px;
 }
 
 /* overlay */

@@ -10,12 +10,12 @@
     "phone": "214-315-2833",
     "address":{
       "street":"(Your Street)",
-      "city":"Dallas / Fort Worth",
+      "city":"linkedin.com/in/benaldo",
       "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "zip": "github.com/ab364608"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/file/d/0B6b7sAF4tCGFUzktUy14UDZSS05wdDlka0kzcC1lc2FBdlpN/view?usp=sharing",
+    "resumedownload":"https://docs.google.com/document/d/1lWYBf9liNcOfSuPNNKAXukEWuDqEwFwLXk7u9LcjuZk/edit?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -29,7 +29,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/ben-anderson-248472197/",
+        "url":"https://www.linkedin.com/in/benaldo/",
         "className":"fa fa-linkedin"
       },
       {
@@ -67,20 +67,20 @@
     "work":[
       {
         "company":"Stack'd",
-        "title":"Group Project",
-        "years":"December 2019",
+        "title":"Group Project ~ December 2019",
+        "years":"http://142.93.12.13:5000/#/",
         "description":"A full-stack web app built as a teaching tool, similar to Stack Overflow, for DevMountain to implement into their curriculum. Only DM students and staff are able to register on the site. Students can post questions to a forum where classmates, staff and alumni can answer the questions. I wrote the vast majority of the backend and most of the front-end functionality. Technologies Used: React.js, Node.js, CSS, HTML, SQL, Firebase, GreenSock, React Quill, React Markdown, Nodemailer, React Modal"
       },
       {
         "company":"BMDb",
-        "title":"Personal Project",
-        "years":"November 2019",
+        "title":"Personal Project ~ November 2019",
+        "years":"http://159.89.144.149:5000/#/",
         "description":"A full-stack web app for all things movies and TV, inspired by IMDb. A user can create an account, search for movies, TV shows and actors, add their favorite movies / TV shows to a personal watchlist. They can also find movie times and purchase movie tickets from Fandago. Technologies Used: React.js, Express-Session, JavaScript, Node.js, SASS, HTML, Firebase and Restful API's"
       },
       {
         "company":"BUT Head",
-        "title":"No Database Project",
-        "years":"October 2019",
+        "title":"NoDb Project ~ October 2019",
+        "years":"Not Hosted",
         "description":"A 3/4-stack web app that allows the user to create their own FIFA card and build an ultimate team. Technologies Used: React.js, JavaScript, HTML, CSS, Node.js and Express."
       }
     ],
@@ -121,18 +121,19 @@
         "title":"Stack'd",
         "category":"For Students, By Students",
         "image":"stackd-screenshot.png",
-        "url":"http://142.93.12.13:5000/#/"
+        "url":"https://github.com/group-the-temps/stackd"
       },
       {
         "title":"BMDb",
         "category":"A Movie and TV Show Database",
         "image":"bmdb-screenshot.png",
-        "url":"http://159.89.144.149:5000/#/"
+        "url":"https://github.com/ab364608/bmdb-personal"
       },
       {
         "title":"BUT Head",
         "category":"FIFA Card and Ultimate Team Creator",
-        "image":"but-head-screenshot.png"
+        "image":"but-head-screenshot.png",
+        "url": "https://github.com/ab364608/NoDB-Project"
       }
     ]
   },
