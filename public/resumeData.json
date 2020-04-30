@@ -4,19 +4,19 @@
     "occupation":"Full-Stack Web Developer",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
-    "bio":"I am a young, aspiring Web Developer, as well as a space enthusiast.  I began a coding bootcamp, DevMountain, in September of 2019 without any prior coding experience. Rather quickly, I discovered that coding was something I thoroughly enjoyed. Since I started at the bootcamp, my overall knowledge of coding has grown exponetially every single day.",
+    "bio":"I am a young, aspiring Web Developer, as well as a space enthusiast.  I began a coding bootcamp, DevMountain, in September of 2019 without any prior coding experience. Rather quickly, I discovered that coding was something I thoroughly enjoyed. Since I started at the bootcamp, my overall knowledge of coding has grown exponentially every single day.",
     "contactmessage":"Contact me for any business inquiries, a phone call is the best way to get in touch.",
     "email": "benaldo1228@gmail.com",
     "phone": "214-315-2833",
     "address":{
       "street":"(Your Street)",
       "city":"linkedin.com/in/benaldo",
-      "state":"(Your State)",
+      "state":"Dallas/Fort Worth",
       "zip": "github.com/ab364608",
       "street": "Dallas, TX 75028"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://docs.google.com/document/d/1lWYBf9liNcOfSuPNNKAXukEWuDqEwFwLXk7u9LcjuZk/edit?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/0B6b7sAF4tCGFUzktUy14UDZSS05wdDlka0kzcC1lc2FBdlpN/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
